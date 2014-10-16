@@ -1,6 +1,6 @@
 test-repo
 =========
 
-This is a test repository
+## This is a test repository
 
-For testing purposes only ;)
+### For testing purposes only ;)
